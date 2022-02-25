@@ -1,5 +1,2 @@
 <?php 
-
-  echo '<h1>Hello world</h1>';
-
-
+echo "this is it";
